@@ -1,4 +1,4 @@
-`include "../half_adder/half_adder.v"
+`include "half_adder.v"
 module half_adder_tb;
 reg a, b;
 wire sum, carry;
